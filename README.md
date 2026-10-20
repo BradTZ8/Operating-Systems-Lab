@@ -10,8 +10,11 @@ An interactive Jupyter notebook for the Operating Systems lab course: Linux inst
 |---|------------|--------|
 | 1 | Linux systems & installation | ✅ |
 | 2 | Linux configuration & administration | ✅ |
-| 3 | The command line (lab tasks + command cheat sheet) | ✅ |
-| 4+ | Coming soon | ⏳ |
+| 3 | The command line | ✅ |
+| 4 | Shell Scripting | ✅ |
+| 5 | Advanced Shell Scripting | ✅ |
+| 6 | Interrupts | ✅ |
+| 7+ | Coming soon | ⏳ |
 
 The notebook also includes a practical command sheet and a lab exercises & report checklist.
 
