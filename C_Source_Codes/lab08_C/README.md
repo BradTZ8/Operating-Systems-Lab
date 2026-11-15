@@ -17,31 +17,6 @@ thread, and nested threads.
 | `05_thread8_dynamic_buffer_per_thread.c` | `thread8.c` | Each thread allocates its own buffer with `malloc` — no sharing, no mixing. | Complete program |
 | `06_thread9_nested_threads.c` | `thread9.c` | A thread creates and joins another (nested) thread. | Complete program |
 
-### Fragments that are documented but *not* extracted as files
-These code pieces appear in the PDF as illustrations only (they are incomplete, not independent programs):
-
-```c
-/* 1) returning a local (automatic) buffer: WRONG — dangling pointer */
-void *thread_function ( void *)
-{
-    char buffer [ 64 ] ;
-    // Fill up the buffer with something good.
-    return buffer;
-}
-
-/* 2) static buffer: avoids the dangling pointer but is shared by all threads running the function */
-void *thread_function ( void *)
-{
-    static char buffer [ 64 ] ;
-    // Fill up the buffer with something good.
-    return buffer ;
-}
-
-/* 3) making a thread detached */
-pthread_detach(thread);
-```
-(In fragments 1 and 2 the parameter has no name, which is not valid in a function *definition* before C23.)
-
 ## Compilation and Execution
 
 ```bash
