@@ -1,11 +1,5 @@
 # Operating Systems Laboratory — Linux
 
-\<p align="center">   \<strong>A Hands-on Learning Resource for Operating Systems\</strong> \</p>
-
-\<p align="center">   \<a href="[https://github.com/BradTZ8/Operating-Systems-Lab](https://github.com/BradTZ8/Operating-Systems-Lab)">     \<img src="[https://img.shields.io/badge/Platform-Linux-FCC624?logo=linux&logoColor=black](https://img.shields.io/badge/Platform-Linux-FCC624?logo=linux\&logoColor=black)" alt="Linux">   \</a>   \<a href="[https://jupyter.org/](https://jupyter.org/)">     \<img src="[https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter\&logoColor=white)" alt="Jupyter">   \</a>   \<a href="[https://www.python.org/](https://www.python.org/)">     \<img src="[https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)" alt="Python">   \</a>   \<a href="[https://gcc.gnu.org/](https://gcc.gnu.org/)">     \<img src="[https://img.shields.io/badge/C-GCC-A8B9CC?logo=c&logoColor=black](https://img.shields.io/badge/C-GCC-A8B9CC?logo=c\&logoColor=black)" alt="C">   \</a> \</p>
-
----
-
 ## About This Project
 
 **Operating Systems Laboratory** is an interactive educational repository designed to introduce students to fundamental operating system concepts through practical experiments, Linux commands, shell scripting, and C programming.
@@ -378,11 +372,3 @@ If you have local modifications, commit or back them up before updating.
 No license has currently been specified for this repository.
 
 Please contact the repository maintainer regarding permissions for redistribution, modification, or reuse of the educational materials.
-
----
-
-\<p align="center">
-&#x20; \<strong>Learn by Doing. Understand by Experimenting.\</strong>
-&#x20; \<br>
-&#x20; Operating Systems Laboratory — Linux
-\</p>
