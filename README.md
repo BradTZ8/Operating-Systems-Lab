@@ -14,7 +14,10 @@ An interactive Jupyter notebook for the Operating Systems lab course: Linux inst
 | 4 | Shell Scripting | ✅ |
 | 5 | Advanced Shell Scripting | ✅ |
 | 6 | Interrupts | ✅ |
-| 7+ | Coming soon | ⏳ |
+| 7 | Process | ✅ |
+| 8 | Threads | ✅ |
+| 9 | Semaphore | ✅ |
+| 9+ | Coming soon | ⏳ |
 
 The notebook also includes a practical command sheet and a lab exercises & report checklist.
 
